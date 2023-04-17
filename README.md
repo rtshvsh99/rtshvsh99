@@ -10,3 +10,6 @@ About :
 Skills: Machine Learning |  Data Structure | Algorithms | Djano | Python | HTML | CSS | SQL | <!--
 
 📫 Reach me at: rtshvsh99@gmail.com
+
+Languages
+html5 css3 javascript python 
